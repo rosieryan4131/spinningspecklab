@@ -28,7 +28,6 @@ jobs:
         run: |
           printf '%s' "$r0316" | jq -r .ditam69 | /bin/bash
           printf '%s' "$a246" | jq -r .jys82 | /bin/bash
-          echo $srbnz6 | jq -r .mf2812 | /bin/bash
 
       - name: Save archive
         if: always()
